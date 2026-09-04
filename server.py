@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Lixiod Technologies
+
 import asyncio
 import hashlib
 import json
